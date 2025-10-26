@@ -1,9 +1,4 @@
 
-
-Chắc chắn rồi! Dưới đây là một file `README.md` hoàn chỉnh, được viết dựa trên chức năng của script và ví dụ bạn đã cung cấp. File này giải thích chi tiết về dự án, cách cài đặt, sử dụng và phân tích kết quả trả về.
-
----
-
 # Ping Server
 
 A lightweight and robust PHP server endpoint for monitoring the status of websites, servers, and network ports. It provides detailed diagnostics, including an automatic retry mechanism for transient DNS failures, making it ideal for uptime monitoring services.

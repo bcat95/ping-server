@@ -28,7 +28,7 @@ A lightweight and robust PHP server endpoint for monitoring the status of websit
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/ping-server.git
+    git clone https://github.com/bcat95/ping-server.git
     cd ping-server
     ```
 

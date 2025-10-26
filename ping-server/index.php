@@ -1,15 +1,4 @@
 <?php
-
-/*
-curl --location --request POST 'https://ping.cochaykhong.com/ping-server/' \
---header 'Content-Type: application/x-www-form-urlencoded' \
---data-urlencode 'type=website' \
---data-urlencode 'target=https://example.com/' \
---data-urlencode 'port=0' \
---data-urlencode 'settings={"timeout_seconds":5,"verify_ssl_is_enabled":true,"follow_redirects":true,"request_method":"GET"}' \
---data-urlencode 'user_agent=66uptime-curl-test'
-*/
-
 /* Công cụ debug nếu cần */
 if (isset($_POST['debug'])) {
     ini_set('display_errors', 1);
